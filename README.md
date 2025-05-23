@@ -59,13 +59,13 @@ Load from XML file:
 
 ## Firefox
 ### Addons
-- LastPass: Free Password Manager
-- Adblock Plus - https://addons.mozilla.org/en-GB/firefox/addon/adblock-plus/
-- DontBugMe - https://addons.mozilla.org/en-US/firefox/addon/dontbugme/
-- New Tab Override - https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/
+- LastPass Password Manager: https://addons.mozilla.org/en-GB/firefox/addon/lastpass-password-manager/
+- Adblock Plus: https://addons.mozilla.org/en-GB/firefox/addon/adblock-plus/
+- New Tab Override: https://addons.mozilla.org/en-GB/firefox/addon/new-tab-override/
   - Custom URL: https://www.startpage.com/
-  - Set focus to the web page
+  - [x] Set focus to the web page instead of the address bar
 - Startpage - https://addons.mozilla.org/en-GB/firefox/addon/startpage-private-search/
+- DontBugMe: https://addons.mozilla.org/en-GB/firefox/addon/dontbugme/
 - Web Developer - https://addons.mozilla.org/en-GB/firefox/addon/web-developer/
 
 ### Customise
