@@ -18,17 +18,17 @@ Settings > Turn system icons on or off
 ## Visual performance and enhancements
 Windows key > Control panel > Adjust the appearance and performance of Windows
 
-![Performance options](performance-options.png)
+![Performance options](img/performance-options.png)
 
 ## Mouse pointer
 Windows key > Control panel > Mouse
 
-![Mouse properties](mouse-properties.png)
+![Mouse properties](img/mouse-properties.png)
 
 ## Remove Recycle Bin from desktop
 Settings > Theme and related settings > Desktop icon settings
 
-![Desktop icon settings](desktop-icon-settings.png)
+![Desktop icon settings](img/desktop-icon-settings.png)
 
 ## Explorer shell
 - show file extensions
